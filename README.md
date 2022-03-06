@@ -6,4 +6,4 @@
 
 `hash-art <InputString>`
 
-This will produce a PNG image called `out.*png`
+This will produce a PNG image called `out.png`
