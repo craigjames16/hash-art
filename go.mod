@@ -1,4 +1,4 @@
-module github.com/craigjames16/go-art
+module github.com/craigjames16/hash-art
 
 go 1.17
 

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/craigjames16/go-art/colors"
+	"github.com/craigjames16/hash-art/colors"
 	"github.com/fogleman/gg"
 )
 
